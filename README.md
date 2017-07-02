@@ -5,6 +5,7 @@ Steps to run:
 2. cd to project
 3. `yarn install`
 4. `npm run clean`
+5. `npm run start`
 
 
 <br />
