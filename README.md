@@ -3,7 +3,7 @@
 Steps to run:
 1. install `yarn` https://yarnpkg.com/lang/en/docs/install/
 2. cd to project
-3. `npm run setup`
+3. `yarn install`
 4. `npm run clean`
 
 
