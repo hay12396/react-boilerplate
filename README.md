@@ -7,6 +7,9 @@ Steps to run:
 4. `npm run clean`
 5. `npm run start`
 
+Adding a component:
+1. cd to project.
+2. `npm run generate component`
 
 <br />
 <br />
