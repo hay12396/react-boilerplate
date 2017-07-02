@@ -1,5 +1,17 @@
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
+Steps to run:
+1. install `yarn` https://yarnpkg.com/lang/en/docs/install/
+2. cd to project
+3. `npm run setup`
+4. `npm run clean`
+
+
+<br />
+<br />
+<br />
+
+
 <br />
 
 <div align="center"><strong>Start your next react project in seconds</strong></div>
